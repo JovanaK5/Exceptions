@@ -1,6 +1,6 @@
 <?php
 
-	//raice and catch exception and execute finally block
+	//raise and catch exception and execute finally block
 
 	function custom_exception($exception){
 
